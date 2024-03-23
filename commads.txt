@@ -1,0 +1,5 @@
+g++ .\src\print.cpp .\main.cpp -o main -I .\include\
+
+cmake ..     ming32-make.exe   ./***.exe
+
+
